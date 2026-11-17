@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio
+# 📊 Power BI Dashboard Collection
 
 Welcome to my **Power BI portfolio**.  
 This repository contains **data analysis and business intelligence projects** developed to deliver **actionable insights** and support **data-driven decision-making**.
